@@ -33,6 +33,6 @@ This project demonstrates state management, UI design, and basic game logic impl
 
 ### Requirements
 
-- Flutter SDK
-- Android Studio or VS Code
+-- Flutter SDK
+-- Android Studio or VS Code
 
